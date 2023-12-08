@@ -69,7 +69,7 @@
   </li>
 
   <li>Navigate to the project directory:
-    <pre><code>cd assessment-project</code></pre>
+    <pre><code>cd pdi</code></pre>
   </li>
 
   <li>Install the project dependencies:
